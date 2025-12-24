@@ -35,3 +35,11 @@ input_df = pd.DataFrame([input_data])
 
 input_df = input_df.reindex(columns=feature_names, fill_value=0)
 
+if st.button("Predict Delivery Time"):
+    # Make prediction
+    prediction = model.predict(input_df)[0]
+
+    # Show result
+    st.success(f"🚚 Estimated Delivery Time: **{prediction:.2f} minutes**")
+
+
