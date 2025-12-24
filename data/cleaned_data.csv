@@ -1,0 +1,1001 @@
+,Distance_km,Traffic_Level,Vehicle_Type,Preparation_Time_min,Courier_Experience_yrs,Delivery_Time_min,Time_Category,weather_category
+0,7.93,Low,Scooter,12,1.0,43,Non Peak,Normal
+1,16.42,Medium,Bike,20,2.0,84,Peak,Normal
+2,9.52,Low,Scooter,28,1.0,59,Peak,Delay-Risk
+3,7.44,Medium,Scooter,5,1.0,37,Non Peak,Delay-Risk
+4,19.03,Low,Bike,16,5.0,68,Peak,Normal
+5,19.4,Low,Scooter,8,9.0,57,Peak,Normal
+6,9.52,Low,Bike,12,1.0,49,Peak,Normal
+7,17.39,Medium,Scooter,5,6.0,46,Peak,Normal
+8,1.78,Low,Car,20,6.0,35,Peak,Delay-Risk
+9,10.62,Low,Scooter,29,1.0,73,Peak,Delay-Risk
+10,16.86,Medium,Car,13,4.0,88,Non Peak,Delay-Risk
+11,15.54,Low,Bike,29,1.0,76,Peak,Normal
+12,10.89,High,Bike,12,5.0,53,Peak,Normal
+13,4.69,Medium,Scooter,12,7.0,36,Peak,Delay-Risk
+14,2.8,High,Scooter,10,5.0,33,Peak,Normal
+15,2.17,Low,Car,15,3.0,35,Peak,Delay-Risk
+16,17.86,Low,Bike,5,1.0,50,Non Peak,Delay-Risk
+17,2.53,Low,Bike,6,8.0,24,Peak,Delay-Risk
+18,6.58,Low,Car,6,7.0,27,Peak,Delay-Risk
+19,5.38,Medium,Scooter,26,1.0,47,Peak,Normal
+20,15.56,Low,Scooter,28,0.0,72,Non Peak,Delay-Risk
+21,13.08,Low,Car,16,4.0,58,Peak,Delay-Risk
+22,0.86,High,Bike,26,5.0,37,Non Peak,Normal
+23,5.83,High,Car,27,9.0,56,Peak,Normal
+24,11.2,Medium,Bike,23,5.0,73,Peak,Normal
+25,14.59,Medium,Bike,15,6.0,64,Peak,Normal
+26,12.91,Medium,Bike,11,6.0,56,Peak,Normal
+27,13.92,Low,Scooter,18,4.0,70,Peak,Delay-Risk
+28,4.04,Low,Bike,11,9.0,70,Peak,Delay-Risk
+29,18.05,Medium,Scooter,10,7.0,123,Peak,Normal
+30,12.88,Medium,Scooter,8,5.0,52,Peak,Normal
+31,19.45,High,Scooter,20,6.0,108,Peak,Delay-Risk
+32,4.58,High,Scooter,22,9.0,45,Peak,Normal
+33,19.73,Medium,Bike,27,4.0,111,Peak,Delay-Risk
+34,2.47,Medium,Bike,27,2.0,44,Peak,Normal
+35,17.8,Medium,Bike,16,9.0,73,Peak,Delay-Risk
+36,5.96,Medium,Bike,22,7.0,45,Non Peak,Normal
+37,12.85,Medium,Scooter,18,7.0,61,Non Peak,Normal
+38,1.02,Medium,Bike,25,4.0,34,Non Peak,Normal
+39,6.84,Medium,Car,14,8.0,47,Peak,Delay-Risk
+40,8.68,Medium,Bike,8,5.0,52,Peak,Delay-Risk
+41,10.69,Medium,Bike,25,9.0,67,Peak,Normal
+42,0.99,Medium,Bike,15,5.0,32,Peak,Normal
+43,1.11,Low,Bike,5,6.0,8,Peak,Normal
+44,2.16,Low,Scooter,15,0.0,36,Peak,Delay-Risk
+45,13.17,Medium,Bike,16,4.0,67,Non Peak,Normal
+46,8.79,Low,Bike,14,6.0,43,Peak,Delay-Risk
+47,5.93,Low,Scooter,19,3.0,36,Non Peak,Normal
+48,2.09,Low,Bike,23,2.0,36,Peak,Delay-Risk
+49,7.57,Low,Bike,21,0.0,56,Peak,Normal
+50,10.52,Medium,Scooter,8,4.0,56,Non Peak,Delay-Risk
+51,4.83,Low,Car,25,9.0,47,Peak,Delay-Risk
+52,19.81,Medium,Car,20,5.0,104,Non Peak,Delay-Risk
+53,10.1,Low,Car,8,4.0,50,Peak,Delay-Risk
+54,7.64,Low,Car,10,8.0,31,Non Peak,Normal
+55,12.35,Low,Scooter,10,6.0,35,Peak,Normal
+56,5.9,Low,Car,26,9.0,44,Peak,Delay-Risk
+57,0.9,Low,Bike,20,8.0,23,Non Peak,Normal
+58,11.58,Medium,Scooter,16,2.0,61,Peak,Normal
+59,16.16,High,Bike,11,1.0,82,Non Peak,Normal
+60,15.51,Low,Bike,17,9.0,69,Peak,Normal
+61,12.16,High,Scooter,11,0.0,69,Peak,Normal
+62,4.96,High,Bike,21,0.0,60,Peak,Delay-Risk
+63,3.64,High,Bike,17,6.0,40,Peak,Normal
+64,2.85,Low,Scooter,26,0.0,38,Peak,Normal
+65,10.4,Low,Bike,16,4.0,52,Peak,Normal
+66,12.31,Low,Bike,29,4.0,68,Peak,Normal
+67,3.53,Medium,Bike,13,7.0,31,Non Peak,Normal
+68,15.56,Medium,Bike,14,3.0,54,Peak,Normal
+69,13.6,Medium,Bike,27,0.0,87,Non Peak,Normal
+70,15.23,High,Bike,5,0.0,62,Peak,Delay-Risk
+71,4.17,Low,Scooter,5,1.0,22,Peak,Normal
+72,3.21,High,Scooter,16,0.0,42,Peak,Delay-Risk
+73,6.38,Low,Bike,16,1.0,111,Peak,Delay-Risk
+74,16.54,Low,Scooter,6,7.0,51,Non Peak,Delay-Risk
+75,12.02,Low,Car,9,7.0,41,Peak,Normal
+76,11.94,Low,Bike,20,3.0,69,Peak,Normal
+77,9.08,Low,Scooter,14,5.0,49,Non Peak,Normal
+78,3.46,Medium,Scooter,23,3.0,48,Peak,Delay-Risk
+79,6.8,Medium,Scooter,13,7.0,46,Peak,Delay-Risk
+80,17.38,Medium,Scooter,11,2.0,92,Non Peak,Delay-Risk
+81,3.25,Low,Bike,23,7.0,32,Peak,Normal
+82,10.28,Medium,Scooter,29,3.0,71,Peak,Normal
+83,16.14,Low,Car,6,9.0,65,Peak,Normal
+84,3.55,Medium,Bike,23,0.0,43,Peak,Normal
+85,10.65,Medium,Scooter,23,8.0,58,Non Peak,Normal
+86,19.03,Low,Car,26,5.0,68,Non Peak,Normal
+87,7.3,Low,Scooter,14,7.0,28,Peak,Normal
+88,7.03,Low,Scooter,21,1.0,44,Peak,Normal
+89,12.43,Low,Car,12,0.0,70,Non Peak,Delay-Risk
+90,12.76,High,Scooter,27,5.0,74,Peak,Normal
+91,11.39,High,Scooter,14,1.0,72,Peak,Delay-Risk
+92,19.41,Low,Car,7,3.0,48,Peak,Normal
+93,13.17,High,Scooter,17,8.0,69,Peak,Delay-Risk
+94,8.32,Low,Car,12,2.0,49,Non Peak,Delay-Risk
+95,1.92,Low,Bike,8,7.0,14,Peak,Normal
+96,1.15,Low,Scooter,26,4.0,30,Non Peak,Normal
+97,17.8,High,Car,12,9.0,73,Non Peak,Normal
+98,7.46,Medium,Bike,8,5.0,42,Peak,Normal
+99,7.25,Medium,Scooter,18,4.0,45,Non Peak,Normal
+100,16.7,Medium,Scooter,28,1.0,76,Non Peak,Normal
+101,17.2,High,Scooter,14,2.0,94,Non Peak,Delay-Risk
+102,0.86,Medium,Car,21,7.0,28,Non Peak,Normal
+103,18.76,Medium,Car,15,2.0,80,Peak,Normal
+104,9.22,Medium,Car,18,9.0,57,Non Peak,Normal
+105,2.84,Low,Scooter,24,2.0,35,Peak,Normal
+106,17.59,Low,Bike,24,6.0,69,Peak,Normal
+107,14.89,High,Scooter,17,6.0,87,Peak,Delay-Risk
+108,1.3,Medium,Bike,22,4.0,31,Peak,Normal
+109,18.99,High,Bike,10,6.0,70,Non Peak,Delay-Risk
+110,1.6,Low,Scooter,24,5.0,37,Peak,Delay-Risk
+111,8.26,Low,Bike,15,1.0,57,Non Peak,Delay-Risk
+112,10.16,High,Bike,12,5.0,52,Peak,Normal
+113,12.03,Medium,Car,20,5.0,65,Peak,Normal
+114,14.73,Low,Bike,24,6.0,74,Non Peak,Delay-Risk
+115,12.56,High,Bike,17,5.0,69,Peak,Normal
+116,5.53,Medium,Bike,19,1.0,44,Non Peak,Normal
+117,10.18,Medium,Bike,25,3.0,73,Peak,Delay-Risk
+118,15.5,Medium,Scooter,28,9.0,91,Peak,Normal
+119,2.98,Medium,Bike,11,2.0,27,Peak,Delay-Risk
+120,16.69,Medium,Scooter,8,2.0,65,Peak,Delay-Risk
+121,11.22,High,Bike,25,5.0,79,Peak,Normal
+122,8.53,Low,Scooter,8,2.0,41,Peak,Normal
+123,12.49,Medium,Bike,25,4.0,77,Peak,Normal
+124,0.97,Low,Scooter,24,8.0,26,Peak,Normal
+125,12.6,Medium,Car,8,6.0,58,Non Peak,Normal
+126,6.91,Medium,Scooter,28,9.0,56,Peak,Normal
+127,18.97,Low,Car,25,4.0,141,Peak,Normal
+128,4.05,Medium,Bike,20,5.0,44,Peak,Normal
+129,14.29,Medium,Bike,14,7.0,78,Peak,Normal
+130,1.3,Low,Bike,19,5.0,29,Peak,Delay-Risk
+131,12.11,Low,Bike,9,5.0,59,Peak,Delay-Risk
+132,14.94,Medium,Bike,11,0.0,62,Peak,Normal
+133,2.29,High,Car,8,8.0,80,Non Peak,Delay-Risk
+134,17.36,High,Bike,24,1.0,105,Non Peak,Delay-Risk
+135,18.48,Medium,Bike,8,0.0,82,Peak,Normal
+136,16.25,High,Bike,10,5.0,91,Peak,Delay-Risk
+137,5.13,Low,Car,15,4.0,30,Peak,Normal
+138,15.81,Low,Car,25,1.0,92,Peak,Normal
+139,0.61,Low,Scooter,10,0.0,16,Non Peak,Normal
+140,5.55,High,Bike,18,1.0,116,Peak,Delay-Risk
+141,19.35,High,Bike,12,7.0,75,Peak,Normal
+142,4.03,Medium,Bike,9,5.0,25,Peak,Normal
+143,7.09,Low,Scooter,13,8.0,37,Peak,Delay-Risk
+144,8.25,Medium,Bike,7,9.0,28,Non Peak,Normal
+145,11.26,Low,Bike,5,6.0,49,Peak,Normal
+146,19.7,Low,Bike,10,2.0,60,Peak,Delay-Risk
+147,0.8,High,Bike,14,9.0,36,Peak,Delay-Risk
+148,7.0,Medium,Bike,17,9.0,49,Peak,Delay-Risk
+149,14.43,Medium,Car,14,4.0,113,Peak,Normal
+150,6.89,Medium,Bike,11,6.0,43,Non Peak,Delay-Risk
+151,5.13,Medium,Car,25,1.0,60,Peak,Delay-Risk
+152,1.5,Low,Bike,10,1.0,17,Non Peak,Normal
+153,2.78,High,Scooter,9,0.0,41,Non Peak,Normal
+154,11.31,Medium,Bike,7,0.0,54,Peak,Normal
+155,15.05,Medium,Car,12,2.0,66,Peak,Normal
+156,5.78,Low,Scooter,9,9.0,33,Non Peak,Delay-Risk
+157,11.83,Low,Scooter,9,7.0,32,Peak,Normal
+158,8.08,Low,Bike,25,2.0,61,Peak,Delay-Risk
+159,16.1,Low,Bike,25,0.0,64,Peak,Normal
+160,9.74,Medium,Scooter,7,8.0,37,Peak,Delay-Risk
+161,17.6,Low,Bike,27,3.0,69,Non Peak,Normal
+162,10.22,Medium,Bike,18,1.0,68,Peak,Delay-Risk
+163,2.19,Low,Bike,26,3.0,32,Peak,Normal
+164,11.41,Medium,Scooter,17,4.0,68,Non Peak,Normal
+165,4.14,Medium,Scooter,14,2.0,30,Peak,Normal
+166,12.65,Low,Bike,18,8.0,60,Non Peak,Delay-Risk
+167,4.15,Medium,Car,17,8.0,46,Peak,Normal
+168,16.8,High,Car,19,4.0,85,Peak,Normal
+169,9.06,Medium,Bike,23,4.0,47,Peak,Normal
+170,13.04,Medium,Scooter,20,6.0,65,Peak,Normal
+171,10.7,Medium,Scooter,8,5.0,44,Non Peak,Normal
+172,6.15,Low,Scooter,26,5.0,48,Peak,Delay-Risk
+173,16.47,High,Scooter,20,9.0,75,Peak,Delay-Risk
+174,1.39,Medium,Bike,15,4.0,24,Non Peak,Normal
+175,11.14,Medium,Scooter,7,3.0,47,Peak,Delay-Risk
+176,3.81,High,Bike,5,6.0,31,Non Peak,Delay-Risk
+177,2.39,Medium,Bike,27,7.0,43,Peak,Delay-Risk
+178,11.74,High,Car,6,3.0,54,Peak,Normal
+179,8.26,Low,Car,21,4.0,80,Peak,Normal
+180,9.54,Medium,Scooter,11,5.0,47,Peak,Delay-Risk
+181,3.88,Medium,Bike,16,2.0,35,Peak,Normal
+182,0.95,Medium,Car,27,0.0,44,Peak,Delay-Risk
+183,8.59,Low,Scooter,17,8.0,36,Peak,Normal
+184,8.59,Low,Bike,22,2.0,43,Peak,Normal
+185,14.21,Medium,Bike,24,5.0,58,Peak,Normal
+186,13.03,Low,Scooter,9,1.0,50,Peak,Delay-Risk
+187,8.03,Low,Scooter,14,8.0,42,Peak,Normal
+188,13.2,Low,Car,14,3.0,62,Peak,Delay-Risk
+189,12.67,Medium,Car,10,3.0,65,Peak,Normal
+190,17.54,Medium,Car,16,8.0,54,Peak,Normal
+191,9.32,Low,Scooter,6,5.0,30,Peak,Normal
+192,6.03,High,Car,8,6.0,46,Non Peak,Delay-Risk
+193,15.71,Low,Scooter,28,5.0,69,Non Peak,Normal
+194,4.87,High,Bike,16,7.0,54,Peak,Delay-Risk
+195,18.15,High,Bike,22,7.0,108,Peak,Delay-Risk
+196,0.78,Medium,Bike,6,1.0,17,Peak,Normal
+197,0.6,Low,Bike,26,3.0,30,Non Peak,Normal
+198,2.09,Medium,Bike,5,5.0,16,Peak,Normal
+199,7.49,Medium,Scooter,13,9.0,45,Peak,Normal
+200,1.41,Medium,Bike,15,0.0,72,Peak,Delay-Risk
+201,18.92,High,Scooter,27,4.0,100,Peak,Normal
+202,12.41,Medium,Car,10,1.0,51,Peak,Normal
+203,1.06,Low,Scooter,19,6.0,21,Non Peak,Normal
+204,18.34,High,Bike,9,4.0,92,Peak,Normal
+205,13.52,Low,Scooter,27,1.0,82,Peak,Normal
+206,16.79,High,Bike,24,6.0,85,Non Peak,Delay-Risk
+207,15.39,Medium,Scooter,24,5.0,89,Peak,Normal
+208,7.39,Medium,Scooter,25,6.0,60,Peak,Delay-Risk
+209,10.98,Low,Scooter,10,6.0,55,Peak,Delay-Risk
+210,11.08,Medium,Bike,9,0.0,57,Peak,Delay-Risk
+211,5.41,Medium,Bike,14,5.0,36,Peak,Normal
+212,0.94,High,Bike,9,6.0,21,Peak,Normal
+213,7.27,Low,Bike,10,5.0,35,Non Peak,Normal
+214,2.99,Medium,Bike,27,5.0,41,Peak,Normal
+215,15.28,Low,Bike,16,5.0,72,Peak,Delay-Risk
+216,2.48,Medium,Car,14,6.0,27,Non Peak,Normal
+217,17.13,Low,Car,19,1.0,71,Peak,Delay-Risk
+218,7.17,Low,Bike,15,7.0,32,Non Peak,Normal
+219,5.47,Low,Car,21,6.0,38,Peak,Delay-Risk
+220,19.53,Low,Bike,11,6.0,87,Non Peak,Delay-Risk
+221,7.5,High,Bike,29,1.0,66,Peak,Normal
+222,5.61,Low,Bike,25,9.0,48,Peak,Normal
+223,4.1,Low,Bike,21,3.0,37,Peak,Normal
+224,6.22,Medium,Bike,15,0.0,49,Peak,Delay-Risk
+225,14.77,High,Scooter,11,6.0,67,Peak,Normal
+226,12.55,Low,Bike,13,8.0,51,Peak,Normal
+227,10.31,Medium,Scooter,19,5.0,62,Peak,Delay-Risk
+228,8.72,Medium,Car,18,7.0,64,Peak,Delay-Risk
+229,17.07,Medium,Bike,20,6.0,73,Peak,Normal
+230,8.27,High,Scooter,13,5.0,58,Non Peak,Normal
+231,7.54,Low,Bike,20,5.0,55,Non Peak,Delay-Risk
+232,14.07,High,Bike,5,8.0,67,Non Peak,Normal
+233,19.02,Medium,Bike,29,9.0,87,Non Peak,Normal
+234,19.0,High,Car,28,3.0,96,Peak,Normal
+235,3.83,Medium,Bike,12,9.0,30,Non Peak,Delay-Risk
+236,10.3,Low,Scooter,19,8.0,48,Peak,Normal
+237,8.09,High,Scooter,15,4.0,51,Non Peak,Normal
+238,18.06,Medium,Bike,9,8.0,52,Peak,Normal
+239,2.76,Medium,Scooter,8,5.0,22,Peak,Normal
+240,12.17,Low,Bike,20,8.0,68,Peak,Delay-Risk
+241,12.33,Medium,Bike,22,9.0,75,Peak,Normal
+242,1.38,Medium,Scooter,5,8.0,13,Peak,Normal
+243,18.49,Low,Scooter,14,6.0,71,Non Peak,Normal
+244,10.57,Low,Bike,28,9.0,59,Non Peak,Delay-Risk
+245,2.0,High,Scooter,10,2.0,30,Peak,Normal
+246,3.29,Medium,Scooter,17,4.0,32,Non Peak,Normal
+247,1.94,Medium,Bike,16,0.0,35,Peak,Delay-Risk
+248,6.56,Medium,Bike,14,1.0,47,Peak,Normal
+249,9.58,High,Car,26,8.0,60,Non Peak,Normal
+250,6.95,Medium,Scooter,25,2.0,58,Peak,Normal
+251,14.05,High,Scooter,19,0.0,72,Peak,Normal
+252,18.97,High,Bike,20,8.0,108,Peak,Delay-Risk
+253,13.53,Low,Bike,28,8.0,78,Peak,Delay-Risk
+254,15.14,Medium,Bike,8,6.0,66,Peak,Delay-Risk
+255,5.96,Low,Bike,26,6.0,48,Non Peak,Normal
+256,3.43,Medium,Bike,7,6.0,23,Peak,Normal
+257,6.24,Medium,Bike,15,3.0,52,Peak,Normal
+258,17.94,High,Scooter,22,6.0,85,Peak,Delay-Risk
+259,3.54,Medium,Bike,10,5.0,32,Peak,Delay-Risk
+260,16.38,Medium,Bike,7,5.0,90,Peak,Delay-Risk
+261,7.81,Low,Bike,11,4.0,42,Peak,Normal
+262,8.84,Medium,Bike,26,0.0,57,Peak,Normal
+263,14.09,Medium,Scooter,12,3.0,55,Non Peak,Normal
+264,11.92,Low,Scooter,14,4.0,46,Non Peak,Normal
+265,17.3,Low,Scooter,9,0.0,67,Peak,Normal
+266,14.08,High,Bike,28,6.0,66,Peak,Normal
+267,2.8,High,Bike,28,1.0,50,Non Peak,Normal
+268,17.96,Medium,Bike,22,2.0,76,Peak,Normal
+269,14.09,High,Bike,12,6.0,67,Non Peak,Normal
+270,9.39,Low,Bike,14,2.0,37,Peak,Normal
+271,17.9,Low,Bike,23,5.0,85,Peak,Normal
+272,4.55,Low,Bike,5,6.0,21,Non Peak,Delay-Risk
+273,6.24,Low,Bike,20,4.0,51,Non Peak,Delay-Risk
+274,16.92,Low,Scooter,29,0.0,70,Peak,Normal
+275,14.31,Medium,Bike,9,8.0,47,Peak,Normal
+276,14.66,Medium,Bike,20,2.0,77,Peak,Normal
+277,2.23,Low,Bike,7,6.0,14,Peak,Normal
+278,12.65,Low,Bike,15,4.0,66,Peak,Normal
+279,7.24,Medium,Bike,28,6.0,65,Peak,Delay-Risk
+280,3.01,Medium,Bike,14,4.0,26,Peak,Normal
+281,11.52,Medium,Scooter,25,2.0,58,Peak,Normal
+282,3.95,Low,Bike,13,5.0,25,Non Peak,Normal
+283,1.09,Medium,Scooter,6,2.0,17,Peak,Normal
+284,13.99,High,Scooter,7,3.0,96,Peak,Normal
+285,19.32,High,Car,21,7.0,112,Peak,Delay-Risk
+286,11.72,Low,Bike,11,9.0,42,Peak,Delay-Risk
+287,2.13,Low,Scooter,9,2.0,22,Peak,Delay-Risk
+288,8.17,Medium,Scooter,20,9.0,44,Non Peak,Normal
+289,12.21,High,Bike,9,4.0,57,Peak,Normal
+290,3.17,Medium,Scooter,17,6.0,33,Peak,Normal
+291,18.68,Low,Bike,11,8.0,62,Non Peak,Delay-Risk
+292,10.95,Medium,Scooter,24,4.0,55,Peak,Normal
+293,19.26,Medium,Scooter,21,6.0,67,Peak,Normal
+294,9.44,Medium,Scooter,28,8.0,63,Peak,Delay-Risk
+295,4.86,Medium,Car,25,4.0,52,Peak,Delay-Risk
+296,5.81,Low,Bike,25,8.0,51,Non Peak,Delay-Risk
+297,7.34,Low,Bike,22,8.0,47,Peak,Delay-Risk
+298,17.39,Medium,Bike,25,4.0,100,Peak,Delay-Risk
+299,5.22,Low,Bike,11,9.0,40,Peak,Delay-Risk
+300,12.32,Medium,Scooter,17,4.0,71,Peak,Normal
+301,2.15,Medium,Car,17,6.0,30,Non Peak,Normal
+302,9.36,High,Scooter,17,2.0,65,Peak,Delay-Risk
+303,2.28,Medium,Scooter,27,9.0,39,Peak,Normal
+304,14.54,Medium,Bike,29,2.0,73,Peak,Normal
+305,12.15,High,Car,12,6.0,63,Peak,Normal
+306,1.4,Low,Bike,9,9.0,17,Peak,Normal
+307,3.37,High,Bike,9,5.0,28,Peak,Normal
+308,3.85,Medium,Bike,26,3.0,46,Non Peak,Delay-Risk
+309,9.03,Low,Bike,11,5.0,43,Peak,Normal
+310,17.99,Low,Bike,15,3.0,63,Non Peak,Delay-Risk
+311,16.35,Medium,Bike,16,0.0,66,Peak,Normal
+312,19.61,High,Bike,8,6.0,72,Peak,Normal
+313,16.29,Low,Bike,20,1.0,72,Peak,Normal
+314,7.84,Low,Bike,6,4.0,28,Non Peak,Normal
+315,18.17,Low,Car,13,0.0,71,Non Peak,Delay-Risk
+316,17.89,Low,Bike,27,1.0,101,Peak,Normal
+317,13.34,Medium,Bike,20,6.0,53,Peak,Normal
+318,4.43,Low,Scooter,10,1.0,63,Peak,Delay-Risk
+319,13.21,Medium,Scooter,12,4.0,63,Peak,Normal
+320,2.76,Medium,Bike,6,2.0,27,Peak,Normal
+321,1.5,Medium,Scooter,15,4.0,32,Peak,Delay-Risk
+322,11.04,Medium,Scooter,8,2.0,54,Non Peak,Normal
+323,1.22,Medium,Scooter,6,5.0,14,Peak,Normal
+324,14.58,Low,Bike,13,5.0,57,Non Peak,Normal
+325,18.26,High,Scooter,28,7.0,93,Peak,Delay-Risk
+326,3.88,Low,Car,27,9.0,42,Peak,Delay-Risk
+327,18.07,High,Scooter,5,2.0,67,Non Peak,Normal
+328,12.11,Medium,Bike,28,0.0,75,Peak,Normal
+329,7.08,Medium,Scooter,5,8.0,27,Non Peak,Normal
+330,3.12,Low,Scooter,14,5.0,28,Peak,Delay-Risk
+331,2.03,High,Car,14,4.0,36,Peak,Delay-Risk
+332,1.8,Medium,Bike,14,1.0,28,Peak,Normal
+333,5.42,Low,Scooter,11,9.0,26,Peak,Normal
+334,7.8,Low,Scooter,23,5.0,52,Peak,Normal
+335,8.47,Low,Scooter,19,0.0,48,Non Peak,Delay-Risk
+336,6.79,Low,Scooter,16,1.0,39,Peak,Delay-Risk
+337,13.6,Medium,Scooter,23,6.0,83,Non Peak,Delay-Risk
+338,13.06,High,Bike,17,8.0,59,Peak,Delay-Risk
+339,19.93,Low,Bike,6,6.0,59,Non Peak,Delay-Risk
+340,11.3,Medium,Bike,15,8.0,70,Non Peak,Delay-Risk
+341,6.74,Medium,Car,21,9.0,47,Peak,Delay-Risk
+342,10.49,Low,Bike,28,9.0,66,Peak,Delay-Risk
+343,8.83,Medium,Scooter,12,3.0,109,Peak,Normal
+344,7.15,High,Car,29,7.0,60,Peak,Normal
+345,15.94,Low,Bike,24,2.0,77,Peak,Normal
+346,11.26,High,Bike,14,2.0,70,Non Peak,Delay-Risk
+347,11.87,Medium,Bike,10,6.0,43,Peak,Normal
+348,2.83,Medium,Scooter,14,6.0,28,Non Peak,Normal
+349,11.74,Low,Car,20,1.0,52,Non Peak,Normal
+350,2.71,Low,Scooter,6,1.0,20,Peak,Normal
+351,10.47,High,Scooter,14,7.0,55,Peak,Normal
+352,4.5,High,Bike,24,0.0,66,Peak,Delay-Risk
+353,19.74,Low,Car,21,7.0,71,Peak,Normal
+354,1.23,Low,Bike,18,6.0,21,Peak,Normal
+355,4.83,Low,Bike,11,1.0,29,Peak,Normal
+356,1.51,High,Bike,14,2.0,32,Non Peak,Normal
+357,1.62,Low,Bike,9,8.0,16,Peak,Normal
+358,11.31,High,Bike,20,0.0,67,Peak,Normal
+359,6.05,Medium,Car,24,0.0,48,Peak,Normal
+360,10.14,Medium,Scooter,20,1.0,59,Peak,Normal
+361,9.45,Low,Car,13,0.0,49,Non Peak,Normal
+362,6.8,High,Bike,28,5.0,55,Peak,Normal
+363,15.65,Low,Bike,27,0.0,76,Non Peak,Normal
+364,2.26,Medium,Scooter,6,3.0,19,Peak,Normal
+365,12.05,Low,Scooter,29,4.0,61,Peak,Normal
+366,8.25,Medium,Car,24,4.0,62,Peak,Normal
+367,12.85,Medium,Scooter,23,0.0,80,Non Peak,Delay-Risk
+368,15.14,Medium,Bike,15,4.0,71,Peak,Normal
+369,4.59,Low,Scooter,19,8.0,36,Peak,Delay-Risk
+370,12.02,Low,Bike,26,0.0,63,Non Peak,Normal
+371,19.8,High,Bike,7,3.0,88,Peak,Normal
+372,19.27,High,Bike,14,6.0,92,Non Peak,Delay-Risk
+373,4.92,High,Scooter,12,0.0,41,Peak,Normal
+374,1.63,Medium,Bike,24,5.0,38,Peak,Delay-Risk
+375,18.04,Medium,Bike,8,5.0,71,Peak,Normal
+376,19.4,Medium,Scooter,23,9.0,92,Non Peak,Delay-Risk
+377,16.4,High,Scooter,12,2.0,70,Peak,Normal
+378,12.01,Low,Car,5,7.0,42,Peak,Normal
+379,18.46,Medium,Scooter,29,1.0,153,Peak,Normal
+380,13.09,Low,Scooter,17,1.0,69,Peak,Normal
+381,1.22,High,Scooter,14,2.0,38,Non Peak,Delay-Risk
+382,10.36,Medium,Bike,7,8.0,39,Non Peak,Delay-Risk
+383,4.31,Medium,Bike,9,2.0,35,Non Peak,Delay-Risk
+384,13.32,Medium,Bike,26,0.0,71,Non Peak,Normal
+385,16.1,Low,Car,16,6.0,61,Peak,Normal
+386,14.11,High,Scooter,24,3.0,93,Peak,Delay-Risk
+387,2.84,Medium,Scooter,28,1.0,44,Peak,Normal
+388,16.09,Low,Car,13,6.0,69,Peak,Delay-Risk
+389,16.05,Medium,Bike,11,2.0,89,Peak,Delay-Risk
+390,13.37,High,Scooter,17,8.0,63,Non Peak,Normal
+391,10.16,Medium,Bike,10,1.0,67,Peak,Delay-Risk
+392,6.13,Medium,Scooter,22,0.0,48,Peak,Normal
+393,4.96,Low,Car,10,7.0,28,Non Peak,Delay-Risk
+394,3.0,Low,Scooter,29,1.0,43,Peak,Normal
+395,2.23,Medium,Car,14,0.0,41,Peak,Delay-Risk
+396,17.96,Medium,Scooter,26,0.0,74,Peak,Normal
+397,7.8,Medium,Bike,11,7.0,49,Peak,Delay-Risk
+398,10.9,High,Scooter,6,8.0,47,Non Peak,Normal
+399,3.17,Low,Bike,17,1.0,28,Non Peak,Normal
+400,9.39,Medium,Scooter,21,9.0,50,Peak,Normal
+401,17.44,Low,Bike,25,9.0,89,Peak,Normal
+402,3.02,Medium,Bike,23,1.0,46,Peak,Delay-Risk
+403,19.99,High,Bike,17,1.0,112,Peak,Delay-Risk
+404,16.22,High,Bike,22,0.0,102,Peak,Delay-Risk
+405,2.74,High,Bike,18,9.0,37,Non Peak,Normal
+406,5.74,High,Bike,13,9.0,46,Peak,Delay-Risk
+407,9.75,Low,Bike,22,7.0,50,Non Peak,Normal
+408,15.62,Medium,Scooter,23,7.0,78,Non Peak,Delay-Risk
+409,16.54,Medium,Bike,25,7.0,77,Non Peak,Delay-Risk
+410,7.84,Low,Scooter,7,8.0,36,Peak,Delay-Risk
+411,17.44,Low,Car,23,0.0,85,Peak,Normal
+412,11.08,High,Bike,16,6.0,70,Non Peak,Normal
+413,17.61,Medium,Scooter,21,9.0,79,Peak,Normal
+414,8.28,Low,Car,29,7.0,58,Peak,Delay-Risk
+415,15.32,Medium,Bike,17,6.0,80,Peak,Normal
+416,3.83,Low,Car,27,3.0,49,Peak,Delay-Risk
+417,3.25,Medium,Scooter,29,0.0,51,Peak,Delay-Risk
+418,19.75,Medium,Bike,25,1.0,103,Peak,Normal
+419,15.19,Low,Scooter,6,4.0,53,Peak,Delay-Risk
+420,8.92,Medium,Bike,25,4.0,62,Peak,Normal
+421,18.63,Low,Bike,11,5.0,85,Non Peak,Normal
+422,12.74,Low,Scooter,18,0.0,67,Peak,Normal
+423,18.13,High,Bike,21,2.0,88,Peak,Delay-Risk
+424,2.47,Low,Car,22,6.0,34,Non Peak,Delay-Risk
+425,18.15,Medium,Bike,11,2.0,89,Peak,Normal
+426,1.74,High,Scooter,8,9.0,28,Non Peak,Delay-Risk
+427,5.79,Medium,Bike,26,6.0,49,Peak,Normal
+428,5.75,High,Scooter,7,4.0,37,Peak,Normal
+429,17.41,Medium,Bike,20,4.0,80,Peak,Delay-Risk
+430,1.2,Low,Scooter,24,7.0,33,Peak,Delay-Risk
+431,8.07,Low,Bike,21,4.0,48,Peak,Normal
+432,1.88,Medium,Scooter,24,7.0,35,Peak,Normal
+433,0.72,Medium,Scooter,9,2.0,23,Non Peak,Delay-Risk
+434,14.19,Medium,Bike,9,1.0,57,Non Peak,Normal
+435,16.73,High,Scooter,9,7.0,71,Non Peak,Normal
+436,18.53,Low,Scooter,8,8.0,57,Non Peak,Delay-Risk
+437,4.32,Low,Bike,21,9.0,34,Peak,Normal
+438,13.6,High,Bike,9,7.0,61,Peak,Delay-Risk
+439,18.46,Low,Bike,19,9.0,94,Peak,Delay-Risk
+440,7.67,Low,Car,9,2.0,31,Peak,Normal
+441,8.23,Low,Bike,17,3.0,56,Peak,Delay-Risk
+442,13.44,Low,Bike,29,0.0,63,Peak,Normal
+443,15.04,Low,Car,24,5.0,60,Peak,Normal
+444,7.48,Medium,Car,21,4.0,52,Peak,Normal
+445,10.11,Medium,Scooter,23,2.0,63,Non Peak,Delay-Risk
+446,10.88,Low,Car,13,3.0,52,Non Peak,Delay-Risk
+447,13.97,Low,Scooter,14,8.0,52,Peak,Delay-Risk
+448,3.48,Low,Scooter,9,1.0,31,Non Peak,Delay-Risk
+449,10.73,Low,Bike,6,6.0,35,Peak,Delay-Risk
+450,5.18,Medium,Car,9,2.0,30,Non Peak,Normal
+451,8.47,Medium,Bike,24,0.0,68,Peak,Delay-Risk
+452,15.64,Low,Bike,20,4.0,141,Peak,Delay-Risk
+453,10.95,Medium,Bike,9,1.0,65,Non Peak,Delay-Risk
+454,19.29,Medium,Scooter,7,8.0,84,Peak,Normal
+455,2.59,Medium,Bike,13,5.0,28,Peak,Normal
+456,3.98,High,Car,19,3.0,41,Peak,Normal
+457,6.06,Low,Scooter,10,8.0,41,Non Peak,Delay-Risk
+458,6.72,Low,Bike,8,5.0,31,Peak,Delay-Risk
+459,19.04,Medium,Scooter,27,2.0,85,Peak,Normal
+460,14.28,High,Scooter,23,5.0,77,Non Peak,Normal
+461,16.26,High,Bike,16,6.0,70,Peak,Delay-Risk
+462,4.25,Low,Bike,5,4.0,22,Non Peak,Normal
+463,12.26,Low,Bike,20,2.0,66,Non Peak,Normal
+464,19.81,Low,Bike,27,1.0,74,Non Peak,Normal
+465,18.2,Medium,Bike,27,1.0,108,Peak,Normal
+466,12.85,Medium,Scooter,14,8.0,73,Peak,Delay-Risk
+467,6.91,Low,Bike,27,8.0,91,Peak,Normal
+468,9.64,Low,Bike,10,5.0,46,Peak,Normal
+469,9.64,Medium,Bike,14,6.0,52,Peak,Delay-Risk
+470,2.28,Medium,Scooter,27,6.0,44,Peak,Delay-Risk
+471,15.34,Low,Bike,18,6.0,54,Non Peak,Delay-Risk
+472,3.22,Medium,Bike,14,8.0,34,Peak,Delay-Risk
+473,9.71,Low,Bike,8,1.0,49,Peak,Normal
+474,17.18,Medium,Scooter,13,1.0,62,Peak,Normal
+475,5.3,Medium,Scooter,29,3.0,47,Non Peak,Normal
+476,10.0,Medium,Scooter,6,9.0,47,Non Peak,Normal
+477,10.75,Medium,Bike,8,6.0,60,Peak,Delay-Risk
+478,9.49,Medium,Car,23,6.0,53,Peak,Delay-Risk
+479,7.24,Medium,Bike,28,7.0,57,Non Peak,Normal
+480,16.09,Low,Bike,21,8.0,66,Peak,Delay-Risk
+481,15.53,Low,Bike,26,6.0,83,Peak,Normal
+482,19.41,Low,Bike,11,8.0,62,Peak,Normal
+483,17.24,Low,Bike,17,5.0,69,Peak,Normal
+484,11.33,Low,Bike,25,3.0,60,Peak,Normal
+485,18.23,Low,Scooter,27,9.0,86,Non Peak,Delay-Risk
+486,1.17,Medium,Bike,16,9.0,25,Peak,Normal
+487,5.33,Low,Car,29,1.0,51,Peak,Normal
+488,4.14,Low,Bike,23,2.0,41,Peak,Delay-Risk
+489,2.02,High,Bike,28,5.0,44,Peak,Normal
+490,14.46,Medium,Scooter,11,9.0,68,Peak,Delay-Risk
+491,3.86,Medium,Bike,21,8.0,34,Non Peak,Normal
+492,12.59,Medium,Bike,13,9.0,62,Peak,Normal
+493,1.11,High,Scooter,22,8.0,35,Peak,Normal
+494,9.11,Low,Bike,19,6.0,42,Non Peak,Normal
+495,18.77,Medium,Bike,24,0.0,115,Peak,Delay-Risk
+496,16.35,Medium,Bike,16,6.0,67,Peak,Delay-Risk
+497,6.22,Low,Bike,16,9.0,29,Non Peak,Normal
+498,7.78,High,Bike,25,3.0,74,Non Peak,Delay-Risk
+499,0.88,Low,Car,27,2.0,37,Peak,Delay-Risk
+500,16.43,Low,Bike,13,5.0,56,Peak,Normal
+501,8.04,Medium,Car,27,0.0,65,Peak,Normal
+502,18.65,Low,Car,19,2.0,68,Peak,Delay-Risk
+503,5.73,Low,Scooter,7,2.0,30,Peak,Delay-Risk
+504,12.42,Low,Bike,28,9.0,79,Peak,Delay-Risk
+505,2.11,Low,Scooter,28,5.0,34,Non Peak,Normal
+506,18.62,Low,Scooter,27,6.0,75,Peak,Normal
+507,17.61,Medium,Scooter,19,3.0,80,Peak,Normal
+508,10.62,Medium,Bike,7,2.0,48,Peak,Delay-Risk
+509,18.83,Medium,Bike,8,0.0,68,Peak,Normal
+510,14.07,Medium,Bike,16,9.0,73,Peak,Normal
+511,9.29,Medium,Bike,10,9.0,40,Peak,Normal
+512,1.29,Low,Bike,7,7.0,15,Peak,Delay-Risk
+513,4.08,Medium,Bike,7,0.0,33,Non Peak,Normal
+514,19.12,High,Car,8,0.0,92,Peak,Normal
+515,17.93,Medium,Bike,29,4.0,85,Non Peak,Normal
+516,2.33,Low,Car,6,1.0,17,Peak,Normal
+517,3.18,Medium,Bike,21,3.0,42,Peak,Delay-Risk
+518,1.97,High,Car,28,7.0,43,Peak,Normal
+519,6.2,High,Scooter,7,3.0,42,Peak,Normal
+520,1.02,High,Bike,6,8.0,21,Peak,Normal
+521,5.3,Low,Bike,16,5.0,32,Peak,Normal
+522,9.34,Low,Car,10,0.0,40,Peak,Delay-Risk
+523,10.09,Medium,Bike,7,0.0,49,Peak,Normal
+524,15.35,High,Scooter,23,9.0,80,Peak,Delay-Risk
+525,17.12,Low,Bike,26,3.0,86,Peak,Delay-Risk
+526,3.94,Low,Bike,19,3.0,43,Non Peak,Delay-Risk
+527,18.02,Medium,Car,12,3.0,77,Peak,Normal
+528,14.41,Medium,Bike,8,8.0,75,Peak,Delay-Risk
+529,11.44,Medium,Car,20,2.0,57,Peak,Delay-Risk
+530,15.23,Low,Car,6,0.0,52,Peak,Delay-Risk
+531,1.95,Low,Scooter,16,2.0,23,Peak,Normal
+532,7.72,Medium,Bike,11,5.0,36,Peak,Delay-Risk
+533,11.78,Low,Scooter,26,3.0,71,Non Peak,Normal
+534,3.4,Medium,Bike,11,6.0,30,Peak,Normal
+535,2.14,High,Bike,18,3.0,34,Peak,Normal
+536,10.04,High,Bike,12,9.0,59,Non Peak,Delay-Risk
+537,14.72,Medium,Scooter,15,8.0,80,Peak,Normal
+538,3.7,Medium,Bike,28,7.0,45,Peak,Normal
+539,19.73,Low,Bike,8,8.0,64,Peak,Delay-Risk
+540,10.83,Medium,Scooter,8,9.0,51,Peak,Normal
+541,16.3,Low,Car,12,1.0,100,Peak,Delay-Risk
+542,5.98,High,Bike,14,6.0,44,Peak,Delay-Risk
+543,5.98,High,Bike,21,2.0,60,Peak,Delay-Risk
+544,4.14,Medium,Bike,21,0.0,46,Peak,Delay-Risk
+545,16.68,Medium,Bike,9,9.0,63,Non Peak,Normal
+546,18.69,Medium,Bike,23,9.0,74,Peak,Normal
+547,18.44,High,Bike,27,7.0,80,Peak,Delay-Risk
+548,13.0,High,Bike,22,8.0,65,Peak,Normal
+549,16.45,Medium,Scooter,25,3.0,87,Peak,Normal
+550,16.17,Medium,Car,10,2.0,116,Peak,Normal
+551,17.88,Medium,Bike,29,3.0,98,Peak,Normal
+552,5.23,Medium,Scooter,19,4.0,37,Peak,Normal
+553,4.32,Medium,Bike,17,4.0,36,Peak,Normal
+554,9.09,Medium,Bike,6,7.0,43,Peak,Delay-Risk
+555,12.67,Medium,Scooter,7,3.0,43,Peak,Normal
+556,1.85,Medium,Bike,10,1.0,24,Peak,Normal
+557,7.51,Low,Car,27,6.0,50,Peak,Delay-Risk
+558,6.58,Low,Bike,13,1.0,34,Non Peak,Normal
+559,12.7,Low,Scooter,22,2.0,57,Peak,Normal
+560,7.31,Medium,Bike,26,2.0,65,Non Peak,Delay-Risk
+561,9.2,High,Scooter,9,9.0,48,Peak,Normal
+562,10.22,Low,Scooter,21,0.0,61,Non Peak,Delay-Risk
+563,8.15,High,Scooter,12,9.0,43,Peak,Normal
+564,10.61,Medium,Bike,17,0.0,59,Peak,Normal
+565,7.73,High,Bike,29,5.0,58,Peak,Normal
+566,19.66,Low,Car,19,6.0,70,Peak,Normal
+567,14.66,High,Car,5,6.0,71,Peak,Delay-Risk
+568,9.73,Low,Bike,29,6.0,60,Non Peak,Normal
+569,14.52,Medium,Car,26,5.0,86,Non Peak,Normal
+570,5.93,High,Scooter,27,1.0,106,Peak,Delay-Risk
+571,4.94,High,Scooter,28,4.0,63,Peak,Delay-Risk
+572,11.88,High,Car,29,9.0,78,Non Peak,Delay-Risk
+573,19.41,Medium,Car,7,6.0,66,Peak,Delay-Risk
+574,3.68,High,Car,16,6.0,47,Non Peak,Normal
+575,11.06,High,Bike,6,9.0,53,Peak,Normal
+576,10.2,Medium,Bike,18,9.0,56,Non Peak,Delay-Risk
+577,0.74,Low,Car,13,4.0,21,Peak,Delay-Risk
+578,15.21,Medium,Bike,20,9.0,90,Non Peak,Delay-Risk
+579,7.69,High,Scooter,16,3.0,58,Peak,Delay-Risk
+580,11.21,High,Scooter,23,1.0,76,Non Peak,Normal
+581,6.18,Medium,Bike,9,9.0,35,Peak,Normal
+582,2.71,Medium,Car,6,5.0,19,Peak,Normal
+583,3.49,Medium,Bike,17,2.0,38,Peak,Normal
+584,9.29,Medium,Bike,17,2.0,49,Peak,Normal
+585,0.71,Low,Bike,29,1.0,41,Peak,Delay-Risk
+586,5.32,Low,Scooter,27,2.0,48,Non Peak,Delay-Risk
+587,4.1,Medium,Car,18,3.0,38,Peak,Normal
+588,13.84,Low,Scooter,18,5.0,64,Peak,Normal
+589,3.9,High,Car,25,9.0,54,Peak,Delay-Risk
+590,18.6,Medium,Car,28,9.0,77,Peak,Delay-Risk
+591,14.88,Medium,Bike,10,0.0,64,Peak,Delay-Risk
+592,3.63,Medium,Car,22,9.0,39,Peak,Normal
+593,3.22,High,Car,7,7.0,27,Peak,Normal
+594,11.51,Low,Car,5,7.0,57,Non Peak,Delay-Risk
+595,19.72,Low,Bike,27,6.0,109,Non Peak,Delay-Risk
+596,11.08,Low,Scooter,28,2.0,58,Peak,Normal
+597,3.95,Medium,Car,28,5.0,47,Peak,Normal
+598,7.29,High,Car,11,7.0,48,Peak,Normal
+599,10.3,Low,Car,12,7.0,41,Peak,Normal
+600,10.73,High,Car,27,6.0,83,Non Peak,Delay-Risk
+601,17.28,Low,Car,28,3.0,72,Peak,Normal
+602,13.37,Medium,Scooter,16,9.0,71,Peak,Delay-Risk
+603,11.36,Medium,Scooter,8,2.0,52,Peak,Normal
+604,7.58,High,Scooter,19,9.0,57,Non Peak,Normal
+605,6.13,High,Bike,25,6.0,59,Peak,Delay-Risk
+606,2.32,Low,Scooter,23,1.0,32,Non Peak,Normal
+607,17.49,Low,Bike,27,9.0,97,Peak,Delay-Risk
+608,1.69,Medium,Car,11,7.0,20,Non Peak,Normal
+609,4.52,Low,Car,17,0.0,71,Peak,Normal
+610,7.15,Low,Bike,15,3.0,42,Peak,Normal
+611,10.86,Medium,Car,10,4.0,60,Peak,Normal
+612,15.88,Low,Car,17,1.0,68,Peak,Delay-Risk
+613,9.7,Low,Bike,6,5.0,45,Peak,Delay-Risk
+614,14.95,Medium,Bike,13,7.0,49,Peak,Normal
+615,11.36,Low,Bike,6,4.0,47,Non Peak,Delay-Risk
+616,12.14,High,Bike,12,0.0,65,Non Peak,Delay-Risk
+617,16.31,Medium,Car,14,7.0,71,Non Peak,Delay-Risk
+618,14.7,Medium,Scooter,24,5.0,75,Peak,Normal
+619,13.42,Medium,Bike,6,6.0,105,Peak,Delay-Risk
+620,7.9,Low,Scooter,22,5.0,48,Non Peak,Normal
+621,15.35,Low,Car,5,3.0,56,Peak,Delay-Risk
+622,15.12,Low,Bike,14,1.0,58,Peak,Delay-Risk
+623,0.82,Low,Car,18,9.0,23,Peak,Normal
+624,6.43,Low,Car,9,7.0,26,Peak,Normal
+625,8.66,High,Bike,29,3.0,77,Peak,Delay-Risk
+626,11.16,Medium,Car,21,4.0,77,Non Peak,Delay-Risk
+627,18.77,Low,Car,15,5.0,71,Non Peak,Delay-Risk
+628,5.84,Medium,Bike,21,7.0,35,Peak,Normal
+629,1.01,High,Bike,17,7.0,29,Peak,Normal
+630,3.92,Medium,Bike,20,9.0,41,Peak,Delay-Risk
+631,12.77,Low,Bike,22,8.0,71,Peak,Delay-Risk
+632,2.33,Low,Bike,9,2.0,18,Peak,Normal
+633,2.92,High,Bike,24,4.0,48,Non Peak,Normal
+634,13.35,Low,Scooter,14,4.0,91,Peak,Delay-Risk
+635,5.26,Medium,Scooter,28,8.0,51,Peak,Delay-Risk
+636,4.39,Medium,Bike,12,8.0,38,Peak,Delay-Risk
+637,8.67,High,Bike,20,4.0,55,Peak,Normal
+638,16.53,Low,Scooter,24,9.0,99,Non Peak,Delay-Risk
+639,13.47,Medium,Bike,19,4.0,59,Peak,Normal
+640,18.86,Medium,Bike,18,1.0,89,Peak,Delay-Risk
+641,12.81,Low,Bike,12,2.0,51,Peak,Normal
+642,2.4,Low,Scooter,27,5.0,42,Peak,Delay-Risk
+643,7.44,Medium,Bike,6,1.0,39,Peak,Delay-Risk
+644,1.89,Medium,Scooter,13,7.0,22,Peak,Normal
+645,19.28,Medium,Car,21,3.0,101,Peak,Delay-Risk
+646,6.29,Medium,Scooter,10,7.0,27,Peak,Normal
+647,1.81,Medium,Car,23,3.0,34,Non Peak,Normal
+648,1.74,Medium,Bike,23,2.0,34,Peak,Normal
+649,13.44,Medium,Car,22,1.0,79,Peak,Normal
+650,7.11,Low,Scooter,27,5.0,48,Non Peak,Normal
+651,4.5,Low,Scooter,20,6.0,32,Peak,Normal
+652,8.31,Medium,Bike,6,5.0,44,Peak,Normal
+653,16.37,High,Bike,26,7.0,97,Peak,Normal
+654,9.78,Medium,Bike,18,3.0,58,Non Peak,Normal
+655,4.88,Medium,Scooter,26,7.0,48,Non Peak,Normal
+656,5.54,Medium,Scooter,28,9.0,51,Peak,Delay-Risk
+657,11.54,High,Car,10,0.0,56,Non Peak,Normal
+658,12.85,Low,Scooter,5,5.0,54,Non Peak,Normal
+659,5.56,Low,Scooter,19,5.0,31,Non Peak,Normal
+660,3.33,Medium,Scooter,24,2.0,44,Peak,Normal
+661,3.47,High,Bike,24,9.0,53,Peak,Delay-Risk
+662,12.01,Low,Scooter,26,6.0,57,Peak,Normal
+663,15.98,Low,Car,21,6.0,90,Peak,Delay-Risk
+664,3.64,Low,Scooter,16,3.0,26,Peak,Normal
+665,19.47,Low,Bike,16,8.0,83,Peak,Normal
+666,15.51,Medium,Scooter,10,8.0,81,Peak,Delay-Risk
+667,10.42,Medium,Bike,28,3.0,72,Non Peak,Normal
+668,15.9,Low,Car,19,5.0,78,Peak,Delay-Risk
+669,15.17,Low,Bike,25,4.0,77,Peak,Normal
+670,2.78,Low,Bike,21,4.0,37,Peak,Delay-Risk
+671,1.98,Low,Bike,22,0.0,39,Non Peak,Delay-Risk
+672,14.03,Low,Bike,17,2.0,65,Non Peak,Normal
+673,2.06,Medium,Scooter,22,4.0,40,Peak,Delay-Risk
+674,11.02,High,Scooter,22,2.0,70,Peak,Normal
+675,17.95,High,Scooter,16,5.0,96,Peak,Delay-Risk
+676,5.17,Low,Bike,29,0.0,56,Peak,Delay-Risk
+677,16.62,Low,Bike,26,8.0,94,Non Peak,Delay-Risk
+678,0.71,Low,Car,25,8.0,31,Peak,Delay-Risk
+679,13.44,Medium,Scooter,9,5.0,55,Peak,Normal
+680,13.1,Low,Bike,28,2.0,72,Peak,Normal
+681,19.24,High,Bike,9,7.0,75,Non Peak,Delay-Risk
+682,5.35,Medium,Scooter,24,6.0,43,Non Peak,Normal
+683,12.22,Low,Scooter,15,0.0,56,Peak,Normal
+684,18.55,Low,Car,11,9.0,69,Non Peak,Normal
+685,6.44,Low,Car,18,2.0,43,Non Peak,Normal
+686,8.77,Medium,Car,14,7.0,49,Peak,Delay-Risk
+687,10.97,Low,Scooter,27,3.0,51,Non Peak,Normal
+688,6.68,High,Scooter,10,5.0,44,Peak,Normal
+689,12.93,Low,Scooter,25,0.0,61,Non Peak,Delay-Risk
+690,7.99,Medium,Bike,18,4.0,42,Peak,Normal
+691,15.78,High,Scooter,12,1.0,68,Non Peak,Normal
+692,9.95,High,Scooter,21,5.0,72,Peak,Normal
+693,13.47,Low,Scooter,7,6.0,46,Non Peak,Delay-Risk
+694,17.19,Medium,Bike,11,8.0,76,Non Peak,Normal
+695,3.23,High,Bike,17,9.0,33,Non Peak,Normal
+696,1.27,High,Bike,25,9.0,46,Non Peak,Delay-Risk
+697,4.71,Low,Bike,20,6.0,31,Peak,Normal
+698,12.82,Medium,Bike,28,9.0,72,Peak,Delay-Risk
+699,18.21,Low,Bike,6,3.0,74,Peak,Normal
+700,9.51,High,Bike,26,9.0,63,Peak,Normal
+701,0.89,Low,Car,9,0.0,20,Peak,Delay-Risk
+702,5.24,High,Scooter,26,8.0,51,Non Peak,Normal
+703,10.64,Low,Car,11,9.0,36,Peak,Normal
+704,13.23,Medium,Bike,20,8.0,70,Peak,Normal
+705,19.03,Medium,Scooter,8,8.0,65,Peak,Normal
+706,10.3,Low,Bike,29,0.0,73,Peak,Delay-Risk
+707,12.39,Medium,Bike,14,8.0,56,Peak,Delay-Risk
+708,18.8,High,Bike,23,7.0,95,Non Peak,Normal
+709,16.78,Medium,Bike,22,1.0,70,Peak,Delay-Risk
+710,7.85,Low,Scooter,7,9.0,34,Non Peak,Normal
+711,11.63,Medium,Scooter,29,7.0,57,Peak,Normal
+712,7.8,Medium,Car,17,6.0,44,Non Peak,Normal
+713,11.88,Medium,Bike,5,1.0,63,Non Peak,Delay-Risk
+714,14.89,High,Car,22,9.0,88,Peak,Normal
+715,16.44,High,Bike,12,5.0,86,Non Peak,Delay-Risk
+716,2.65,Medium,Car,14,4.0,35,Non Peak,Normal
+717,18.01,High,Bike,14,2.0,71,Peak,Delay-Risk
+718,10.32,Medium,Car,24,5.0,49,Peak,Normal
+719,6.37,Low,Car,29,4.0,56,Non Peak,Delay-Risk
+720,3.74,Low,Bike,19,6.0,36,Peak,Delay-Risk
+721,17.99,High,Bike,5,1.0,73,Peak,Normal
+722,13.96,Low,Bike,5,1.0,42,Peak,Delay-Risk
+723,16.02,Low,Bike,20,7.0,61,Peak,Normal
+724,7.52,Medium,Car,17,9.0,44,Non Peak,Normal
+725,2.51,Low,Bike,16,2.0,28,Peak,Normal
+726,6.7,High,Scooter,23,3.0,59,Peak,Delay-Risk
+727,17.61,Low,Bike,5,8.0,61,Peak,Normal
+728,3.65,Medium,Bike,29,9.0,46,Peak,Normal
+729,14.27,Medium,Car,24,3.0,77,Peak,Normal
+730,8.85,Low,Bike,11,9.0,45,Non Peak,Normal
+731,9.24,Medium,Bike,8,2.0,49,Non Peak,Normal
+732,19.7,Low,Car,16,6.0,66,Peak,Delay-Risk
+733,11.61,High,Car,19,1.0,67,Peak,Normal
+734,16.44,High,Car,8,0.0,80,Non Peak,Normal
+735,8.67,High,Bike,12,7.0,104,Non Peak,Delay-Risk
+736,5.14,Medium,Scooter,23,7.0,43,Peak,Normal
+737,10.46,Medium,Bike,25,3.0,68,Peak,Normal
+738,5.23,Medium,Scooter,23,2.0,47,Peak,Normal
+739,10.35,Medium,Bike,7,9.0,48,Peak,Normal
+740,4.04,High,Bike,14,6.0,39,Peak,Delay-Risk
+741,2.66,Low,Bike,16,8.0,21,Non Peak,Normal
+742,17.61,Medium,Bike,9,5.0,74,Non Peak,Delay-Risk
+743,8.48,High,Bike,11,5.0,39,Peak,Normal
+744,17.06,Low,Bike,9,9.0,66,Peak,Normal
+745,6.78,Low,Bike,18,6.0,42,Peak,Delay-Risk
+746,9.0,Medium,Car,29,3.0,78,Non Peak,Delay-Risk
+747,12.74,Low,Scooter,12,0.0,63,Non Peak,Normal
+748,18.72,Medium,Bike,17,0.0,89,Non Peak,Delay-Risk
+749,3.23,Low,Bike,7,7.0,14,Peak,Normal
+750,12.56,Low,Car,22,8.0,49,Peak,Normal
+751,1.0,Medium,Bike,28,0.0,51,Peak,Delay-Risk
+752,3.46,Low,Bike,24,6.0,37,Peak,Normal
+753,6.0,Low,Car,20,8.0,53,Peak,Delay-Risk
+754,14.79,Medium,Scooter,12,9.0,64,Peak,Normal
+755,14.65,High,Car,19,3.0,95,Peak,Delay-Risk
+756,14.2,Medium,Bike,17,1.0,73,Non Peak,Normal
+757,7.04,Low,Bike,11,8.0,38,Non Peak,Normal
+758,19.74,Medium,Car,16,1.0,98,Non Peak,Normal
+759,11.88,Medium,Bike,20,8.0,69,Peak,Delay-Risk
+760,18.63,Low,Bike,26,8.0,75,Peak,Normal
+761,8.8,Medium,Bike,6,2.0,38,Non Peak,Delay-Risk
+762,11.75,High,Bike,9,2.0,55,Peak,Normal
+763,18.95,Low,Car,27,0.0,92,Peak,Delay-Risk
+764,7.6,Low,Bike,16,4.0,48,Peak,Delay-Risk
+765,17.99,Low,Car,11,2.0,84,Peak,Delay-Risk
+766,13.82,Medium,Bike,21,9.0,72,Peak,Normal
+767,15.53,Low,Bike,26,7.0,68,Peak,Delay-Risk
+768,3.97,High,Bike,19,8.0,40,Non Peak,Normal
+769,10.1,High,Car,17,6.0,55,Peak,Normal
+770,18.21,Low,Bike,5,1.0,70,Peak,Delay-Risk
+771,2.68,Low,Bike,16,8.0,25,Peak,Normal
+772,3.88,Low,Bike,9,6.0,33,Peak,Delay-Risk
+773,15.89,Medium,Car,15,9.0,91,Non Peak,Delay-Risk
+774,6.73,Medium,Bike,21,1.0,54,Non Peak,Normal
+775,0.75,Medium,Bike,10,5.0,16,Non Peak,Normal
+776,13.79,Low,Scooter,11,0.0,69,Peak,Delay-Risk
+777,18.83,Medium,Scooter,5,8.0,69,Peak,Normal
+778,11.62,Low,Bike,9,8.0,33,Non Peak,Normal
+779,5.03,Medium,Bike,17,5.0,38,Peak,Normal
+780,15.08,Medium,Scooter,26,1.0,94,Peak,Delay-Risk
+781,10.48,Low,Car,10,7.0,45,Non Peak,Delay-Risk
+782,7.82,Medium,Bike,16,8.0,45,Peak,Delay-Risk
+783,16.98,Low,Bike,11,6.0,78,Peak,Normal
+784,14.83,Low,Car,19,4.0,126,Peak,Delay-Risk
+785,5.67,Low,Scooter,11,9.0,27,Peak,Normal
+786,18.33,Medium,Scooter,5,5.0,67,Peak,Delay-Risk
+787,17.46,Medium,Scooter,6,5.0,62,Peak,Normal
+788,1.34,High,Bike,9,5.0,30,Peak,Delay-Risk
+789,1.38,Low,Scooter,13,9.0,17,Peak,Normal
+790,3.67,Low,Bike,9,0.0,26,Peak,Normal
+791,7.86,Medium,Car,22,2.0,55,Peak,Normal
+792,8.98,Medium,Scooter,22,8.0,105,Non Peak,Normal
+793,12.85,Medium,Scooter,6,7.0,61,Peak,Delay-Risk
+794,17.91,Low,Bike,6,7.0,68,Non Peak,Normal
+795,15.09,Low,Car,20,7.0,68,Peak,Delay-Risk
+796,4.22,Medium,Bike,16,7.0,35,Peak,Normal
+797,12.33,High,Bike,7,2.0,101,Peak,Normal
+798,17.87,Low,Scooter,29,4.0,87,Peak,Delay-Risk
+799,2.16,Medium,Car,10,1.0,23,Peak,Normal
+800,3.11,Medium,Scooter,21,1.0,43,Peak,Delay-Risk
+801,1.42,High,Scooter,24,2.0,40,Non Peak,Normal
+802,18.57,Medium,Bike,16,7.0,89,Non Peak,Delay-Risk
+803,17.51,Medium,Bike,15,3.0,60,Peak,Normal
+804,6.84,Medium,Bike,25,1.0,51,Peak,Normal
+805,18.34,Medium,Scooter,22,5.0,91,Non Peak,Delay-Risk
+806,3.51,Medium,Bike,22,2.0,44,Peak,Normal
+807,14.7,Medium,Scooter,6,2.0,58,Peak,Normal
+808,16.85,High,Car,17,4.0,71,Peak,Normal
+809,16.26,Low,Car,27,5.0,66,Peak,Delay-Risk
+810,19.1,Medium,Bike,25,6.0,90,Peak,Delay-Risk
+811,13.71,Medium,Bike,22,9.0,64,Peak,Delay-Risk
+812,8.92,Medium,Bike,10,1.0,51,Peak,Normal
+813,14.58,Low,Bike,23,0.0,70,Peak,Normal
+814,9.71,Low,Car,27,5.0,61,Non Peak,Normal
+815,19.94,Low,Bike,26,6.0,83,Non Peak,Normal
+816,4.53,Medium,Scooter,18,4.0,49,Peak,Delay-Risk
+817,10.7,High,Car,8,4.0,57,Non Peak,Normal
+818,10.13,Medium,Bike,22,0.0,65,Peak,Normal
+819,0.78,Low,Bike,11,0.0,18,Non Peak,Normal
+820,18.84,Medium,Scooter,25,8.0,88,Non Peak,Delay-Risk
+821,15.08,Low,Bike,29,7.0,84,Peak,Delay-Risk
+822,17.32,Low,Scooter,10,3.0,77,Peak,Normal
+823,6.81,Medium,Bike,23,2.0,47,Peak,Normal
+824,2.79,High,Bike,23,7.0,38,Peak,Normal
+825,11.44,High,Car,14,4.0,74,Non Peak,Delay-Risk
+826,2.44,High,Bike,13,9.0,39,Peak,Delay-Risk
+827,2.48,Low,Scooter,20,8.0,30,Peak,Delay-Risk
+828,7.75,Medium,Scooter,21,1.0,55,Peak,Normal
+829,0.85,Medium,Bike,9,8.0,17,Peak,Normal
+830,8.87,Low,Bike,19,3.0,55,Peak,Normal
+831,15.37,Medium,Car,15,5.0,66,Non Peak,Delay-Risk
+832,10.29,Medium,Scooter,25,4.0,67,Peak,Delay-Risk
+833,15.06,Low,Bike,22,4.0,65,Peak,Delay-Risk
+834,3.54,Low,Bike,23,7.0,37,Peak,Delay-Risk
+835,7.17,Medium,Scooter,7,9.0,29,Peak,Normal
+836,4.62,Medium,Car,8,3.0,33,Non Peak,Delay-Risk
+837,5.53,Low,Car,10,8.0,27,Peak,Normal
+838,12.74,Low,Bike,17,9.0,63,Non Peak,Delay-Risk
+839,9.06,High,Bike,26,3.0,61,Peak,Normal
+840,2.71,Low,Bike,6,0.0,28,Peak,Delay-Risk
+841,16.92,Low,Bike,23,5.0,78,Peak,Normal
+842,13.54,Low,Bike,11,1.0,54,Peak,Delay-Risk
+843,1.0,Medium,Bike,25,4.0,44,Peak,Delay-Risk
+844,8.77,Medium,Car,12,2.0,42,Peak,Normal
+845,16.01,Low,Car,28,0.0,84,Peak,Normal
+846,12.63,Medium,Scooter,8,8.0,49,Peak,Delay-Risk
+847,8.09,Low,Car,22,2.0,56,Peak,Delay-Risk
+848,6.54,Medium,Bike,10,7.0,39,Peak,Normal
+849,10.64,Medium,Scooter,14,5.0,45,Non Peak,Normal
+850,1.77,Medium,Bike,14,9.0,22,Peak,Normal
+851,13.0,Low,Bike,25,7.0,77,Peak,Delay-Risk
+852,12.83,Low,Bike,5,8.0,50,Peak,Normal
+853,13.02,High,Car,6,9.0,65,Non Peak,Delay-Risk
+854,18.89,Medium,Scooter,22,1.0,74,Peak,Delay-Risk
+855,10.53,High,Bike,25,8.0,72,Peak,Delay-Risk
+856,5.01,Low,Bike,10,5.0,31,Non Peak,Delay-Risk
+857,16.0,Medium,Scooter,13,3.0,65,Non Peak,Delay-Risk
+858,17.86,Low,Scooter,16,8.0,83,Non Peak,Normal
+859,2.99,High,Bike,9,5.0,90,Non Peak,Delay-Risk
+860,16.38,Medium,Bike,6,2.0,51,Peak,Normal
+861,6.09,Medium,Bike,7,4.0,27,Peak,Normal
+862,13.61,Low,Bike,26,0.0,66,Peak,Normal
+863,8.5,High,Bike,14,7.0,56,Peak,Delay-Risk
+864,8.55,Low,Scooter,28,8.0,46,Peak,Normal
+865,4.05,Medium,Scooter,21,5.0,39,Non Peak,Normal
+866,19.5,High,Bike,18,2.0,73,Peak,Normal
+867,7.59,Medium,Scooter,16,3.0,37,Non Peak,Normal
+868,16.66,High,Scooter,29,7.0,95,Non Peak,Delay-Risk
+869,19.41,High,Car,21,3.0,100,Peak,Delay-Risk
+870,13.74,Medium,Bike,6,1.0,56,Non Peak,Delay-Risk
+871,0.64,High,Bike,10,3.0,24,Peak,Normal
+872,12.1,High,Bike,11,0.0,53,Non Peak,Normal
+873,12.09,Medium,Car,13,1.0,60,Peak,Normal
+874,11.82,Medium,Bike,24,7.0,77,Peak,Normal
+875,5.28,Low,Bike,27,6.0,53,Peak,Delay-Risk
+876,5.98,Low,Car,22,9.0,35,Peak,Normal
+877,2.93,Medium,Bike,24,8.0,94,Peak,Normal
+878,4.05,Medium,Scooter,19,2.0,50,Peak,Delay-Risk
+879,13.61,Low,Scooter,12,2.0,43,Peak,Normal
+880,2.88,Medium,Car,16,4.0,41,Peak,Delay-Risk
+881,5.91,Medium,Scooter,29,4.0,57,Peak,Normal
+882,6.0,Medium,Scooter,21,2.0,47,Peak,Delay-Risk
+883,11.33,Medium,Scooter,29,7.0,77,Non Peak,Normal
+884,15.01,Medium,Bike,15,6.0,64,Peak,Normal
+885,6.85,High,Bike,16,5.0,48,Peak,Normal
+886,11.93,High,Car,7,1.0,75,Peak,Delay-Risk
+887,18.82,Low,Car,5,3.0,77,Peak,Normal
+888,1.03,Medium,Bike,19,4.0,29,Non Peak,Normal
+889,14.22,Medium,Car,25,8.0,84,Peak,Delay-Risk
+890,18.18,High,Bike,17,3.0,85,Peak,Delay-Risk
+891,14.75,Low,Car,10,7.0,62,Peak,Normal
+892,11.7,Low,Bike,17,5.0,60,Non Peak,Delay-Risk
+893,10.68,Low,Bike,14,1.0,42,Peak,Normal
+894,1.51,High,Bike,26,1.0,44,Peak,Normal
+895,8.01,High,Bike,8,6.0,48,Peak,Normal
+896,3.23,Low,Car,25,7.0,42,Peak,Delay-Risk
+897,13.16,High,Scooter,25,8.0,68,Peak,Delay-Risk
+898,10.11,Low,Bike,11,4.0,44,Peak,Normal
+899,18.39,Low,Bike,24,6.0,74,Non Peak,Normal
+900,10.62,Medium,Car,22,5.0,54,Non Peak,Normal
+901,10.73,Medium,Bike,7,5.0,57,Non Peak,Normal
+902,6.23,Medium,Car,20,1.0,51,Peak,Normal
+903,2.14,Low,Bike,25,1.0,36,Non Peak,Normal
+904,12.83,Medium,Bike,19,2.0,76,Peak,Normal
+905,8.37,High,Scooter,13,7.0,42,Peak,Normal
+906,3.69,Medium,Bike,8,8.0,27,Non Peak,Delay-Risk
+907,18.1,Low,Scooter,8,5.0,77,Peak,Normal
+908,7.06,Low,Scooter,26,5.0,51,Non Peak,Normal
+909,1.94,Low,Bike,10,1.0,25,Peak,Delay-Risk
+910,0.59,Low,Bike,21,0.0,27,Non Peak,Normal
+911,17.01,Low,Bike,28,6.0,97,Peak,Delay-Risk
+912,5.36,Low,Scooter,11,4.0,30,Non Peak,Normal
+913,12.0,Low,Car,25,0.0,75,Peak,Normal
+914,16.23,Medium,Bike,6,0.0,54,Peak,Normal
+915,19.04,Low,Car,12,6.0,60,Peak,Delay-Risk
+916,18.33,Medium,Scooter,19,0.0,98,Peak,Delay-Risk
+917,2.58,Medium,Scooter,25,7.0,37,Peak,Normal
+918,4.65,Medium,Bike,21,1.0,46,Peak,Normal
+919,17.33,Low,Scooter,12,3.0,79,Peak,Delay-Risk
+920,0.68,High,Bike,29,8.0,50,Peak,Delay-Risk
+921,19.33,Medium,Bike,7,8.0,73,Peak,Normal
+922,3.42,Medium,Car,11,9.0,24,Peak,Normal
+923,19.02,High,Scooter,22,1.0,106,Peak,Delay-Risk
+924,17.81,High,Bike,21,4.0,122,Peak,Normal
+925,2.67,Medium,Car,17,6.0,28,Peak,Normal
+926,19.24,Low,Bike,26,1.0,114,Peak,Delay-Risk
+927,14.41,Medium,Bike,16,6.0,85,Peak,Delay-Risk
+928,2.41,Medium,Bike,15,9.0,25,Peak,Normal
+929,17.98,Low,Bike,5,8.0,45,Peak,Normal
+930,7.34,Medium,Bike,22,5.0,93,Non Peak,Delay-Risk
+931,12.51,Medium,Bike,18,5.0,62,Peak,Normal
+932,4.97,Low,Bike,17,9.0,34,Peak,Delay-Risk
+933,19.1,Low,Bike,18,1.0,101,Non Peak,Delay-Risk
+934,4.64,Low,Bike,15,9.0,24,Non Peak,Normal
+935,14.07,Low,Bike,10,5.0,63,Peak,Delay-Risk
+936,3.79,Medium,Bike,13,2.0,34,Peak,Normal
+937,3.96,Medium,Bike,23,5.0,44,Non Peak,Normal
+938,18.31,Medium,Bike,25,3.0,79,Non Peak,Normal
+939,6.76,Medium,Bike,7,6.0,42,Peak,Delay-Risk
+940,0.76,Low,Car,26,9.0,28,Non Peak,Normal
+941,5.81,Medium,Bike,14,8.0,41,Peak,Delay-Risk
+942,12.08,High,Scooter,16,4.0,60,Non Peak,Normal
+943,1.57,Low,Car,16,1.0,30,Peak,Delay-Risk
+944,11.89,Medium,Bike,28,0.0,79,Non Peak,Normal
+945,7.02,Medium,Car,23,2.0,53,Peak,Normal
+946,13.85,Low,Bike,29,5.0,71,Peak,Normal
+947,9.32,Medium,Scooter,24,2.0,71,Peak,Delay-Risk
+948,7.72,High,Bike,19,4.0,64,Peak,Delay-Risk
+949,8.15,Low,Bike,26,2.0,50,Non Peak,Delay-Risk
+950,3.54,Medium,Scooter,17,4.0,41,Non Peak,Delay-Risk
+951,3.16,Low,Car,9,5.0,27,Peak,Delay-Risk
+952,11.65,Low,Bike,10,3.0,53,Peak,Normal
+953,5.22,Medium,Scooter,14,3.0,43,Peak,Delay-Risk
+954,5.41,High,Scooter,17,6.0,38,Peak,Normal
+955,9.88,Medium,Car,7,0.0,43,Peak,Delay-Risk
+956,19.86,High,Bike,12,8.0,71,Peak,Delay-Risk
+957,5.53,High,Bike,23,4.0,59,Peak,Normal
+958,12.46,Low,Bike,10,1.0,62,Non Peak,Delay-Risk
+959,1.38,Medium,Car,6,3.0,17,Peak,Normal
+960,10.79,Medium,Scooter,24,1.0,65,Peak,Normal
+961,14.23,Medium,Scooter,23,7.0,70,Non Peak,Normal
+962,1.21,Low,Bike,22,1.0,39,Non Peak,Delay-Risk
+963,11.1,Low,Bike,18,7.0,56,Non Peak,Normal
+964,17.1,Medium,Bike,25,5.0,65,Peak,Normal
+965,3.22,Medium,Bike,19,9.0,32,Non Peak,Normal
+966,19.27,Medium,Car,29,9.0,85,Peak,Delay-Risk
+967,2.82,Medium,Scooter,10,1.0,29,Peak,Delay-Risk
+968,7.67,Medium,Scooter,22,8.0,59,Non Peak,Delay-Risk
+969,16.07,Medium,Bike,16,5.0,64,Peak,Normal
+970,7.97,Medium,Scooter,9,8.0,35,Peak,Normal
+971,18.0,High,Car,22,5.0,98,Peak,Delay-Risk
+972,16.17,Medium,Scooter,12,2.0,78,Peak,Normal
+973,14.86,High,Scooter,15,4.0,91,Peak,Normal
+974,11.68,Medium,Scooter,25,7.0,70,Non Peak,Normal
+975,12.59,Low,Scooter,10,2.0,39,Peak,Normal
+976,8.96,Medium,Car,6,5.0,51,Peak,Delay-Risk
+977,16.51,Medium,Bike,7,1.0,79,Peak,Normal
+978,16.01,Low,Car,12,4.0,72,Non Peak,Normal
+979,19.74,High,Scooter,11,7.0,81,Non Peak,Delay-Risk
+980,8.64,Low,Bike,29,4.0,62,Peak,Delay-Risk
+981,5.13,Medium,Car,16,1.0,38,Peak,Normal
+982,5.78,High,Bike,11,5.0,38,Peak,Normal
+983,2.6,Low,Bike,16,1.0,29,Non Peak,Normal
+984,2.34,Medium,Bike,8,2.0,28,Peak,Delay-Risk
+985,12.93,Medium,Scooter,20,8.0,58,Peak,Normal
+986,1.6,Medium,Bike,14,8.0,24,Peak,Normal
+987,7.44,Low,Bike,27,5.0,53,Peak,Delay-Risk
+988,14.39,Medium,Scooter,6,5.0,50,Peak,Delay-Risk
+989,6.07,Low,Bike,18,4.0,35,Non Peak,Normal
+990,17.97,Medium,Scooter,28,7.0,92,Peak,Normal
+991,17.53,Low,Bike,14,6.0,79,Non Peak,Normal
+992,12.43,High,Bike,13,6.0,70,Peak,Delay-Risk
+993,10.89,Medium,Bike,7,0.0,58,Peak,Normal
+994,4.37,Medium,Scooter,6,7.0,25,Peak,Normal
+995,8.5,High,Car,13,3.0,54,Peak,Normal
+996,16.28,Low,Scooter,8,9.0,71,Peak,Delay-Risk
+997,15.62,High,Scooter,26,2.0,81,Peak,Delay-Risk
+998,14.17,Low,Bike,8,0.0,55,Non Peak,Normal
+999,6.63,Low,Scooter,24,3.0,58,Peak,Delay-Risk
