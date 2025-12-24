@@ -3,8 +3,8 @@ import pandas as pd
 import joblib
 # Load model and feature names
 
-model = joblib.load(r"C:\Users\ADMIN\OneDrive\Desktop\DELIVERY TIME PREDICTION\models\final_model.pkl")
-feature_names = joblib.load(r"C:\Users\ADMIN\OneDrive\Desktop\DELIVERY TIME PREDICTION\models\feature_names.pkl")
+model = joblib.load("../models/final_model.pkl")
+feature_names = joblib.load("../models/feature_names.pkl")
 
 st.title("Delivery Time Prediction App")
 
@@ -32,4 +32,5 @@ input_data = {
     "Vehicle_Type_Car": 1 if vehicle == "Car" else 0
 }
 input_df = pd.DataFrame([input_data]) 
+
 input_df = input_df.reindex(columns=feature_names, fill_value=0)
